@@ -1,0 +1,12 @@
+
+
+.filter-m{
+    width: 100%;
+    height : 3rem;
+    display: flex;
+    flex-direction: row;
+}
+
+.bar-m{
+    width: 100%;
+}

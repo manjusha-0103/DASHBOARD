@@ -1,0 +1,7 @@
+.filter-dv{
+    display:  flex;
+    width : 100%;
+    height: max-content;
+    gap : 2%;
+    margin-bottom:  4%;
+}

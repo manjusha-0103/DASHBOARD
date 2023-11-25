@@ -1,0 +1,48 @@
+.sfooter-main{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    gap: 5%;
+}
+
+.sfooter-box-1{
+    width : 33%;
+    height : 50px;
+    background-color: #c5d6ee;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.sfooter-box-1:hover{
+    background-color: #91bbf7;
+}
+.sfooter-box-2{
+    width : 30%;
+    height : 50px;
+    background-color: #f7d1cf;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.sfooter-box-2:hover{
+    background-color: #fca9a4;
+}
+.sfooter-box-3{
+    width : 33%;
+    height : 50px;
+    background-color: #cdf0f9;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.sfooter-box-3:hover{
+    background-color: #a4e7f8;
+}
+
